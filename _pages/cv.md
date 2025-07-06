@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume and CV"
+title: "Resume"
 permalink: /resumecv/
 author_profile: true
 redirect_from:
@@ -9,5 +9,4 @@ redirect_from:
 
 
 {% include base_path %}
-- [Curriculum Vitae (long form)](https://drive.google.com/file/d/1uppkQdTtvOVKFRxtJAwuLynnv5bnDKp8/view?usp=sharing).
-- [Resume (short form)](https://drive.google.com/file/d/1S2rVGUZcB-JgioL427vW-FF1Gk5V0Ivw/view?usp=sharing).
+- [Resume](https://drive.google.com/file/d/13IoLArcYtvWYLzIjhwZy7VyP-aA7l9gl/view?usp=sharing)
